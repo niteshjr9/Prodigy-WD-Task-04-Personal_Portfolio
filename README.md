@@ -152,9 +152,9 @@ To enable these features, uncomment the respective function calls in `script.js`
 ## 📞 Support
 
 For questions or customization help:
-- Email: hello@nitesh.dev
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- Email: niteshmaddheshiya2004@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nitesh-maddheshiya/
+- GitHub: https://github.com/niteshjr9/
 
 ## 📄 License
 
